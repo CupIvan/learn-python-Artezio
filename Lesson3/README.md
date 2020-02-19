@@ -13,6 +13,7 @@ def func1(arg1, arg2=2):
     return v1, v2
 
 def func2(*args): # func2(1,2,3,4)
+def func2(**kwargs): # func2(a=1,b=2)
 def func3(*, a, b=True): # func3(a=1)
 
 sum = lambda a,b=4: a+b
