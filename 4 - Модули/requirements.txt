@@ -14,7 +14,7 @@ importlib-metadata==1.4.0
 isc==2.0
 lensfun==0.3.95
 louis==3.12.0
-Mako==1.1.1
+Mako==1.2.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
 more-itertools==8.1.0
